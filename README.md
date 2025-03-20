@@ -2,7 +2,7 @@
 
 ## Eduard Peñas Balart
 
-## Fichero `primos.py`
+## Fichero `primos.py` 
 
 - El alumno debe escribir el fichero `primos.py` que incorporará distintas funciones relacionadas con el manejo
   de los números primos.
