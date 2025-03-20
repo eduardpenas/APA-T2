@@ -69,6 +69,8 @@ comprobarse las siguientes condiciones:
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el fichero `primos.py` con la opción
 *verbosa*, de manera que se muestre el resultado de la ejecución de los tests unitarios.
 A continuación se muestra la ejecución de los tests unitarios en modo verboso:
+
+
 ![Resultados de los tests](test_results.png) 
 #### Código desarrollado
 
