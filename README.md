@@ -1,6 +1,6 @@
 # Segunda tarea de APA 2025: Manejo de números primos
 
-## Nom i cognoms
+## Eduard Peñas Balart
 
 ## Fichero `primos.py`
 
