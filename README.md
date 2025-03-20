@@ -209,7 +209,7 @@ def contar_factores(factores):
 if __name__ == "__main__":
     doctest.testmod(verbose=True)
 
-
+```
 
 #### Subida del resultado al repositorio GitHub ¿y *pull-request*?
 
